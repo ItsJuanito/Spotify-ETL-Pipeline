@@ -1,5 +1,6 @@
 # Spotify-ETL-Pipeline
 Spotify API data extracted, transformed, and loaded onto a Postgres Database.
+# Spotify ETL Process Diagram
 
 ![ETLProcessDiagram](ETLProcessDiagram.png)
 
