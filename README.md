@@ -9,7 +9,7 @@ Spotify API data extracted, transformed, and loaded onto a Postgres Database.
 - .env (contains environment variables for API security connection)
 - ETLpipeline.ini (contains configuated variables for PostgreSQL-database connection)
 
-# Modules to install (Linux/Unix)
+# Packages to install (Linux/Unix)
 - $ pip install spotipy python-dotenv (for spotify api and .env files)
 - $ pip install pandas (for pandas module)
 - $ pip install numpy (for numpy module)
